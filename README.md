@@ -38,16 +38,12 @@ python generar_clave.py
 ---
 
 ## 📸 Ejemplo de Ejecución
-```
 
 ![image](https://github.com/user-attachments/assets/aa390aef-9b04-450b-81ca-d8ffe4a5fb81)
 
 
 ![image](https://github.com/user-attachments/assets/97c8cb7b-0e45-4b53-b55e-4bdf87a5542f)
 
-
-
-```
 
 ---
 
